@@ -1,10 +1,14 @@
-- 👋 <b>Hi, I’m @fantomas4o</b>
-  <br> <br>
-  <a href="http://fedia.eu" target="_blank"><img src="https://fedia.eu/wp-content/uploads/2023/08/button_fedia-eu-11.png" border="0"></a> <a href="http://urocibg.eu" target="_blank"><img src="https://fedia.eu/wp-content/uploads/2023/08/button_urocibg-eu10.png" border="0"></a>
-  <br><br>
-- 👀  My fascination lies in exploring the intricacies of computers and their applications, delving into the realm of Artificial Intelligence to unravel its potential, and passionately engaging in the art of coding to bring innovative ideas to life.
+👋 <b>Hi, I’m @fantomas4o</b>  
+<br><br>
 
-<!---
-fantomas4o/fantomas4o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 <a href="https://devopsbg.net/" target="_blank">devopsbg.net</a>  
+🔗 <a href="http://fedia.eu" target="_blank">fedia.eu</a>  
+🔗 <a href="http://urocibg.eu" target="_blank">urocibg.eu</a>  
+<br><br>
+
+- 🌐 I run and manage multiple websites, including [devopsbg.net](https://devopsbg.net/), where I share knowledge, tutorials, and insights on Linux, DevOps, Docker, Proxmox, and automation.  
+- 💻 My expertise spans Linux systems (Ubuntu, Linux Mint), Windows 11 with WSL, Docker, Proxmox, rsync, and automated server solutions.  
+- 🛠️ I create scripts in **Bash, Python, PHP, and JavaScript**, focusing on practical, reliable, and elegant solutions.  
+- 📰 I actively work with WordPress, MySQL/MariaDB, PHP, HTML, CSS, and JavaScript to build and maintain modern, secure, and SEO-friendly websites.  
+- 🔍 I’m passionate about blending functionality with aesthetics, writing about real-world tech applications, and helping others navigate the complexities of system administration and development.  
+
