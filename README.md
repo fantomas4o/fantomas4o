@@ -2,7 +2,7 @@
 <br><br>
 
   
-🔗 <a href="https://spirachki.eu)" target="_blank">spirachki.eu</a>  
+🔗 <a href="https://spirachki.eu" target="_blank">spirachki.eu</a>  
 🔗 <a href="http://urocibg.eu" target="_blank">urocibg.eu</a>  
 🔗 <a href="https://devopsbg.net/" target="_blank">devopsbg.net</a>
 <br><br>
