@@ -3,31 +3,30 @@
 </div>
 
 <div align="center">
-  
+ 
   [![Website](https://img.shields.io/badge/🌐_spirachki.eu-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spirachki.eu)
   [![Website](https://img.shields.io/badge/🌐_urocibg.eu-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://urocibg.eu)
   [![Website](https://img.shields.io/badge/🌐_devopsbg.net-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devopsbg.net/)
-  
+  [![GitHub followers](https://img.shields.io/github/followers/fantomas4o?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fantomas4o)
+ 
 </div>
 
 ---
 
 ### 🚀 About Me
-
-> **System Administrator | DevOps Engineer | Full-Stack Developer**
-
+> **System Administrator | DevOps Engineer | Full-Stack Developer**  
 🔧 I architect and manage robust digital infrastructures, transforming complex technical challenges into elegant, automated solutions.
 
-- 🌐 **Community Builder** — Running [devopsbg.net](https://devopsbg.net/), sharing knowledge on Linux, DevOps, Docker, and automation
-- 💼 **Multi-Platform Expert** — Linux (Ubuntu, Mint), Windows 11 + WSL, Docker, Proxmox, rsync
-- 🛠️ **Polyglot Developer** — Crafting solutions in Bash, Python, PHP, and JavaScript
-- 📰 **Web Architect** — Building modern, secure, SEO-optimized sites with WordPress, MySQL/MariaDB
-- ✨ **Philosophy** — Where functionality meets aesthetics
+- 🌐 **Community Founder** — Running [devopsbg.net](https://devopsbg.net/), sharing knowledge on Linux, DevOps, Docker, and automation  
+- 💼 **Multi-Platform Expert** — Linux (Ubuntu, Mint), Windows 11 + WSL, Docker, Proxmox, rsync  
+- 🛠️ **Polyglot Developer** — Building solutions in Bash, Python, PHP, and JavaScript  
+- 📰 **Web Architect** — Creating modern, secure, SEO-optimized sites with WordPress, MySQL/MariaDB  
+- ✨ **Philosophy** — Where functionality meets aesthetics  
+- 🎯 **Current Focus** — Automation, infrastructure optimization, and community growth
 
 ---
 
 ### 💻 Tech Stack
-
 <div align="center">
 
 #### **Operating Systems & Infrastructure**
@@ -40,6 +39,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### **Web Development**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -53,6 +53,33 @@
 
 ---
 
+### 🔥 Featured WordPress Plugins
+
+<div align="center">
+
+| Plugin | Description | Stats |
+|--------|-------------|-------|
+| **Docs Library Pro** | Красива библиотека за документи – PDF, DOCX, XLSX, RTF с търсене и цветни икони | [![Stars](https://img.shields.io/github/stars/fantomas4o/docs-library-pro?style=social)](https://github.com/fantomas4o/docs-library-pro) [![Forks](https://img.shields.io/github/forks/fantomas4o/docs-library-pro?style=social)](https://github.com/fantomas4o/docs-library-pro) |
+| **Fedya Related Articles** | Свързани публикации с миниатюри и модерен дизайн – автоматично или чрез shortcode | [![Stars](https://img.shields.io/github/stars/fantomas4o/fedya-related-articles?style=social)](https://github.com/fantomas4o/fedya-related-articles) [![Forks](https://img.shields.io/github/forks/fantomas4o/fedya-related-articles?style=social)](https://github.com/fantomas4o/fedya-related-articles) |
+| **Code Dark Copy** | Тъмни код блокове с копиране с едно кликване – без дублиране, за всяка тема | [![Stars](https://img.shields.io/github/stars/fantomas4o/code-dark-copy?style=social)](https://github.com/fantomas4o/code-dark-copy) [![Forks](https://img.shields.io/github/forks/fantomas4o/code-dark-copy?style=social)](https://github.com/fantomas4o/code-dark-copy) |
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fantomas4o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantomas4o&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fantomas4o&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
 ### 🎯 What I Do
 ```python
 class Fantomas4o:
@@ -60,27 +87,60 @@ class Fantomas4o:
         self.role = "DevOps Engineer & Full-Stack Developer"
         self.focus = ["System Architecture", "Automation", "Web Development"]
         self.current_work = "Building scalable infrastructure solutions"
-        
+        self.community = "devopsbg.net"
+       
     def daily_routine(self):
         return [
-            "Optimize server configurations",
-            "Automate repetitive tasks",
-            "Write clean, maintainable code",
-            "Share knowledge on devopsbg.net"
+            "⚙️  Optimize server configurations",
+            "🤖 Automate repetitive tasks",
+            "💻 Write clean, maintainable code",
+            "📝 Share knowledge on devopsbg.net",
+            "🔧 Maintain production environments"
         ]
-    
+   
+    def tools_i_love(self):
+        return {
+            "os": ["Linux", "Ubuntu", "Windows 11 + WSL"],
+            "containers": ["Docker", "Proxmox"],
+            "languages": ["Bash", "Python", "PHP", "JavaScript"],
+            "databases": ["MySQL", "MariaDB"],
+            "cms": ["WordPress"]
+        }
+   
     def motto(self):
         return "Blending functionality with aesthetics 🎨"
 ```
 
 ---
 
+### 🏆 GitHub Trophies
 <div align="center">
-  
-  ### 💬 Let's Connect
-  
-  *Always open to interesting projects and collaborations*
-  
-  ⭐ **Found something useful? Star it!** ⭐
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=fantomas4o&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fantomas4o&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+💬 **Open to collaboration** on DevOps, automation, and web development projects  
+📧 **Reach me through** [devopsbg.net](https://devopsbg.net/)  
+🌟 **Follow my journey** and let's build something amazing together!
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fantomas4o&color=blue&style=for-the-badge)](https://github.com/fantomas4o)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
